@@ -1,4 +1,4 @@
-# API with In Built JWT Token Genrations asl well as Refresh and endpoints to support TODO API which are only accesscible using JWT Tokens
+# API with In Built JWT Token Genrations + Refresh Tokens Support and endpoints built to support the TODO API which are only accesscible using JWT Tokens
 
 This example API shows how to implement JSON Web Token authentication and authorization with ASP.NET Core 3.1, built from scratch.HAve taken reference from few Online tutorials or materials
 
